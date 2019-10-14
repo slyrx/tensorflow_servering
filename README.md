@@ -1,2 +1,4 @@
 # tensorflow_servering
-test
+
+## Reference
+https://www.tensorflow.org/tfx/serving/serving_basic
